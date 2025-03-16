@@ -24,11 +24,11 @@ With a background in **Liberal Arts and Industrial Engineering**, I go beyond nu
 - Examined the differences in Click-Through Rate (CTR) and Conversion Rate (CVR) between brand-name search queries and general search queries, identifying key performance variations.  
 - Developed targeted marketing strategies by analyzing brand-specific funnel performance.  
 
-#### 🔹 **[Large-Text UI Proposal for the Senior Segment: Leading Digital Finance with Shinhan Life](https://github.com/liz-song/shinhan_bigdata_hackathon)**  
+#### **[Large-Text UI Proposal for the Senior Segment: Leading Digital Finance with Shinhan Life](https://github.com/liz-song/shinhan_bigdata_hackathon)**  
 🏆 **Excellence Award (Shinhan Financial Group)**  
 - Conducted **Exploratory Data Analysis (EDA) and Correlation Analysis** to develop a **data-driven UI/UX enhancement strategy** for improving digital accessibility for senior users.  
 
-#### 🔹 **[Vertiport Site Selection for Urban Air Mobility (UAM) Platform Design](https://github.com/liz-song/kpoms-hyundai-case-competition)**  
+#### **[Vertiport Site Selection for Urban Air Mobility (UAM) Platform Design](https://github.com/liz-song/kpoms-hyundai-case-competition)**  
 🏆 **Excellence Award (Hyundai Motors & KPOMS)**  
 - Identified key factors influencing vertiport site selection, including traffic volume, transportation inequality index, regional size, and availability of suitable locations.  
 - Integrated satellite location data, transportation inequality indices, and regional traffic patterns to develop a data-driven optimization model for strategic vertiport placement.  
